@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "foodItem",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "categoryRef",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "price",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "orders",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "userPurchased",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "placedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

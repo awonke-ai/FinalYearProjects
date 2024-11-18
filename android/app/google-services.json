@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334866256069",
+    "project_id": "krispy-box-mobile-app",
+    "storage_bucket": "krispy-box-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334866256069:android:410d3e3d314090412620ac",
+        "android_client_info": {
+          "package_name": "com.mycompany.krispybox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwH-HQaFu0vIZJiHVbzufunZ79QL04kEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
